@@ -1,0 +1,12 @@
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\bin\Debug\net8.0\geniussolution.deps.json
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\bin\Debug\net8.0\geniussolution.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\bin\Debug\net8.0\geniussolution.pdb
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\obj\Debug\net8.0\geniussolution.csproj.AssemblyReference.cache
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\obj\Debug\net8.0\geniussolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\obj\Debug\net8.0\geniussolution.AssemblyInfoInputs.cache
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\obj\Debug\net8.0\geniussolution.AssemblyInfo.cs
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\obj\Debug\net8.0\geniussolution.csproj.CoreCompileInputs.cache
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\obj\Debug\net8.0\geniussolution.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\obj\Debug\net8.0\refint\geniussolution.dll
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\obj\Debug\net8.0\geniussolution.pdb
+C:\Users\troll\Desktop\77fuscator SOURCE\77FUSCATOR DEVELOPMENT SOURCE\77fuscator NEW\77main\obj\Debug\net8.0\ref\geniussolution.dll

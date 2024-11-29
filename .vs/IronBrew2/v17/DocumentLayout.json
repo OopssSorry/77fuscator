@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5000D7-D808-40F8-9A96-B6EA5A9FC98A}|IronBrew2 CLI\\geniussolution CLI.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2 cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5000D7-D808-40F8-9A96-B6EA5A9FC98A}|IronBrew2 CLI\\geniussolution CLI.csproj|solutionrelative:ironbrew2 cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\obfuscationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\obfuscationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\vm generation\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\vm generation\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\vm generation\\vmstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\vm generation\\vmstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\vm generation\\bsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\vm generation\\bsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\opcodes\\opgettable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\opcodes\\opgettable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\new generation\\dynamic structure generation\\dynamicopcodestructuregenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\new generation\\dynamic structure generation\\dynamicopcodestructuregenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\vm generation\\compression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\vm generation\\compression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\opcodes\\opsettable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\opcodes\\opsettable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\opcodes\\oppushstkpersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\opcodes\\oppushstkpersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\bytecode library\\bytecode\\opcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\bytecode library\\bytecode\\opcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|c:\\users\\troll\\desktop\\77fuscator source\\77fuscator development source\\77fuscator new\\ironbrew2\\obfuscator\\opcodes\\oppushcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F8F4B0-456F-47EA-8FE8-37F0DD4C7917}|IronBrew2\\IronBrew2.csproj|solutionrelative:ironbrew2\\obfuscator\\opcodes\\oppushcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2 CLI\\Program.cs",
+              "RelativeDocumentMoniker": "IronBrew2 CLI\\Program.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2 CLI\\Program.cs",
+              "RelativeToolTip": "IronBrew2 CLI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:31:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Program.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Program.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Program.cs",
+              "RelativeToolTip": "IronBrew2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:07:36.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObfuscationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\ObfuscationSettings.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\ObfuscationSettings.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\ObfuscationSettings.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\ObfuscationSettings.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:31:03.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpPushStkPersistent.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\Opcodes\\OpPushStkPersistent.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\Opcodes\\OpPushStkPersistent.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\Opcodes\\OpPushStkPersistent.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\Opcodes\\OpPushStkPersistent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:13:58.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Opcode.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Bytecode Library\\Bytecode\\Opcode.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Bytecode Library\\Bytecode\\Opcode.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Bytecode Library\\Bytecode\\Opcode.cs",
+              "RelativeToolTip": "IronBrew2\\Bytecode Library\\Bytecode\\Opcode.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIBJwDoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:13:54.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OpPushCache.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\Opcodes\\OpPushCache.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\Opcodes\\OpPushCache.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\Opcodes\\OpPushCache.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\Opcodes\\OpPushCache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:00:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OpSetTable.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\Opcodes\\OpSetTable.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\Opcodes\\OpSetTable.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\Opcodes\\OpSetTable.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\Opcodes\\OpSetTable.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAABQwAcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:48:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpGetTable.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\Opcodes\\OpGetTable.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\Opcodes\\OpGetTable.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\Opcodes\\OpGetTable.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\Opcodes\\OpGetTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:38:13.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BSGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\VM Generation\\BSGenerator.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\VM Generation\\BSGenerator.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\VM Generation\\BSGenerator.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\VM Generation\\BSGenerator.cs",
+              "ViewState": "AQIAADIEAAAAAAAAAAAYwE8EAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:26:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\VM Generation\\Generator.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\VM Generation\\Generator.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\VM Generation\\Generator.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\VM Generation\\Generator.cs",
+              "ViewState": "AQIAAOgDAAAAAAAAAIBJwPoDAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:26:43.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VMStrings.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\VM Generation\\VMStrings.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\VM Generation\\VMStrings.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\VM Generation\\VMStrings.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\VM Generation\\VMStrings.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAIBJwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:26:43.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DynamicOpcodeStructureGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\New Generation\\Dynamic Structure Generation\\DynamicOpcodeStructureGenerator.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\New Generation\\Dynamic Structure Generation\\DynamicOpcodeStructureGenerator.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\New Generation\\Dynamic Structure Generation\\DynamicOpcodeStructureGenerator.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\New Generation\\Dynamic Structure Generation\\DynamicOpcodeStructureGenerator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:15:36.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Compression.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\VM Generation\\Compression.cs",
+              "RelativeDocumentMoniker": "IronBrew2\\Obfuscator\\VM Generation\\Compression.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\77fuscator SOURCE\\77FUSCATOR DEVELOPMENT SOURCE\\77fuscator NEW\\IronBrew2\\Obfuscator\\VM Generation\\Compression.cs",
+              "RelativeToolTip": "IronBrew2\\Obfuscator\\VM Generation\\Compression.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAiwMMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:26:42.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
